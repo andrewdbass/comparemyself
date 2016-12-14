@@ -1,3 +1,9 @@
-<p>
-  top works!
-</p>
+<div class = "top">
+  <div class = "top__title">
+    How old are you?
+  </div>
+  <input [ngModel]="ageInput" (ngModelChange)="ageInput = $event" class = "top__field" type = "number"/>
+  <div class = "top__button" (click) = "newAge()">
+    Compare Yourself
+  </div>
+</div>

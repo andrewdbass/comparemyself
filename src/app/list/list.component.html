@@ -1,7 +1,7 @@
 <div class = "list">
-  <div *ngFor= "let person of people | async" class = "list__item">
-    <div class = "list__picture">
-      <img [src] = "person.image" />
+  <div *ngFor= "let person of people" class = "list__item">
+    <div class = "list__picture" [style.background-image]="'url('+person.image+')'">
+      <!-- <img [src] = "person.image" /> -->
     </div>
     <div class = "list__title">
       {{person.name}}

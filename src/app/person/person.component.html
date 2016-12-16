@@ -1,0 +1,21 @@
+<div class = "person__header">
+  <div class = "person__backButton" (click) = "navigateBack()">
+    <i class="fa fa-arrow-left" aria-hidden="true"></i>
+  </div>
+  <div class = "person__name">
+    {{person.name}}
+  </div>
+</div>
+<div class = "person">
+  <div class = "person__picture" [style.background-image]="'url('+person.image+')'">
+    <!-- <img [src] = "person.image" /> -->
+  </div>
+  <div class = "person__title">
+    Age: {{age}}
+  </div>
+  <div>
+    <p>
+      {{person.years[age]}}
+    </p>
+  </div>
+</div>

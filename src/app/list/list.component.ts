@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import { Http, Response, Headers, RequestOptions,Jsonp } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/Rx';
@@ -10,12 +10,16 @@ import 'rxjs/Rx';
 })
 export class ListComponent implements OnInit {
   private people = [];
+  @Output() selectedPerson = new EventEmitter();
   constructor(
     private http: Http,
   ) {
 
   }
-
+  slectPerson(person){
+    this.selectedPerson.emit(person);
+    console.log(person)
+  }
   ngOnInit() {
   this.http.get("../../assets/data.json")
     .map(response => response.json())

@@ -1,5 +1,5 @@
 <div class = "list">
-  <div *ngFor= "let person of people" class = "list__item">
+  <div *ngFor= "let person of people" class = "list__item" (click) = "slectPerson(person)">
     <div class = "list__picture" [style.background-image]="'url('+person.image+')'">
       <!-- <img [src] = "person.image" /> -->
     </div>

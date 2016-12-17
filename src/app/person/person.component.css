@@ -24,8 +24,10 @@
 }
 .person__title{
   margin-top: 4px;
+  margin-bottom: 4px;
   text-align: center;
 }
 .person__year{
   width: 80%;
+  font-size: 20px;
 }

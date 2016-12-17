@@ -1,3 +1,6 @@
 <app-top *ngIf="showList" (age)="newAge($event)" ></app-top>
 <app-list *ngIf="showList" (selectedPerson)= "selectPerson($event)"></app-list>
 <app-person *ngIf="!showList" (navigateBackAction)="backToList($event)" [age] ="age" [person] = "person"></app-person>
+<div *ngIf="age<1" class = "overlay">
+
+</div>

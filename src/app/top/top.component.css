@@ -1,26 +1,30 @@
 .top{
+  /* Rectangle: */
+  /*background-image: linear-gradient(45deg, #6D6B6B 0%, #3B3B3B 100%);*/
   background-color: #3F3F3F;
   color:white;
   width: 100%;
-  height: 250px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
 }
 .top__title{
-  font-size: 32px;
+  font-size: 24px;
 }
 .top__field{
-  width: 200px;
-  font-size: 48px;
+  width: 164px;
+  font-size: 32px;
   text-align: center;
 }
 .top__button{
-  font-size: 24px;
-  padding: 8px;
-  background-color: #06BEDA;
-  width: 200px;
+  font-size: 14px;
+  padding: 12px;
+  margin-bottom: 8px;
+  background-color: #09BF57;
+  border-radius: 12px;
+  width: 140px;
   display: flex;
   justify-content: center;
   align-items: center;

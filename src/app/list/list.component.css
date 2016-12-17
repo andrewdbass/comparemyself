@@ -18,15 +18,9 @@
   margin-top: 4px;
   text-align: center;
 }
-
-.overlay {
-    position:absolute;
-    top:300px;
-    left:0;
-    right:0;
-    bottom:0;
-    background-color:rgba(0, 0, 0, 0.45);
-    background: url(data:;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIHYzLjUuNUmK/OAAAAATSURBVBhXY2RgYNgHxGAAYuwDAA78AjwwRoQYAAAAAElFTkSuQmCC) repeat scroll transparent\9; /* ie fallback png background image */
-    z-index:9999;
-    color:white;
+.cta{
+  text-align: center;
+  margin-top: 32px;
+  font-size: 12px;
+  font-family:  Courier;
 }

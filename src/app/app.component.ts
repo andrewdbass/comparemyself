@@ -16,6 +16,7 @@ export class AppComponent {
   }
   private backToList(event){
     this.showList = true;
+    this.age = 0;
   }
   private selectPerson(event){
     if(this.age>0){

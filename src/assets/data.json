@@ -65,7 +65,57 @@
   },
   {
       "name": "Elon Musk",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg",
+      "years": [
+        "",
+        "Born to Engineer father and model mother.",
+        "Was pretty adorable",
+        "Drifts off as if deaf (he was not) so parents get his adenoids removed)",
+        "Was a kid and had some fun.",
+        "Was a kid and had some fun.",
+        "Was a kid and had some fun.",
+        "Reads ten hours per day",
+        "Runs out of books to read at library, reads entire Encyclopedia Britannica.",
+        "Parents divorce, chooses to live with father",
+        "Gets bullied at school. ",
+        "Thinks interesting thoughts",
+        "Writes video game Blastar, sells it for $500.",
+        "Thinks interesting thoughts",
+        "Has existential crisis - reads The Hitchiker's Guide to The Galaxy looking for an answer. Decids on his life mission - to save humanity.",
+        "Thinks interesting thoughts",
+        "Thinks interesting thoughts",
+        "Moves to Canada on his own.works odd jobs and stays with relatives. Gets a job shoveling dirt in boiler room for $18/hour",
+        "Starts college in Ontario",
+        "Cold calls ececs he reads about in the news asking to meet for lunch. Top exec of a bank responds and offers an internship",
+        "Shows genius in banking but gets chewed out for using the exec coffe machines. sells computers outof dorm room. Transfers to UPeen double majoring in physics and economics",
+        "Runs a speakeasy from his house in college.",
+        "Does college things.",
+        "Gets Wharton economics degre (and later physics degree)",
+        "Starts Zip2 with brother, coding it himself. Gets $28,000 from father to start with and sleeps in office for the first 3 months.",
+        "Raises first investment money ($3M) Gets pushed out from CEO to CTO by his investors.",
+        "Works hard at Zip2. Rubs some people the wrong way.",
+        "Works hard at Zip2. Rubs some people the wrong way.",
+        "Gets $22 Million from sale of Zip2. Starts X.com -an online bank (with his own money) Buys McLaren F1 for $1 Million - soon chrashes it.",
+        "Merges with Confinity forming PayPal. Marries college girlfriend Justine. Gets ousted as CEO from PayPal (while on honeymoon) Almost dies from malaria that he got on vacation.",
+        "Negotiations fail to buy rockets and Elon realizes rockets are artificially overpriced. First son is born. Starts SpaceX to build his own rockets(with his own money) Son Dies from sudden infant death syndrome 10 weeks later. Gets $250 Million from sale of PayPal ($180M after tax)",
+        "Meets JB Straubel electric car enthusiast and Tesla founders who pitch exactly what he wanted - electric cars. Invests in Tesla, suggesting JB and Tesla founders work together. Twin sons are born through IVF",
+        "Works like crazy putting SpaceX and Tesla together. Forgets more this year than many will ever learn.",
+        "His first ever rocket launches and explodes. Wins NASA contracts to demo cargo delivery to ISS and make Falcon-9.Becomes the 1st investor in SolarCity (cousins' company) Triplet sons are born.",
+        "Second rocket launch fails.",
+        "First Tesla customers get their Roadsters at $109,000. Divorces wife. 3rd launch fails destroying 4 satelites aboard including NASA's. SpaceX and Tesla are both running out of cash. 4th launch succeds. Wins NASA contract for 12 flights for $1.6B. Hours before Tesla would have gone bankrupt - raises funding.",
+        "Unveils the first Tesla Model S.",
+        "Buys a car factory for cheap from Toyota's faild joint venture. Tesla goes publlic at $17 per shareand reaches $24 by the end of the day. Marries Talulah Riely.",
+        "Promises to send humas to Mars by 2021-2031. Anounces reusable rockets (to make cost of space flight 100 times cheaper)",
+        "Unveils the Tesla Model X SUV. Divorces Riley. Dragon docks with the Interational Space Station. Starts shipping the model S at $75,000. Starts trying to land dummy rocket Grasshoper verically from small altitude. Launches supercharger network.",
+        "Marries Riley again.publishes the design of Hyperloop high-speed rail. Atempts to soft land rocket from orbit on water. ",
+        "Attempts to land rocket from orbit on a ship. Starts building the Gigafactory to mass produce batteries.",
+        "Unviels Powerwall. First customers get thier Model X",
+        "Rocket lauch fails ( first failure after 19 succesful launches. Challenged by Jeff Bezos who lands a suborbital rocket. Rocket launch succeds (1st reusable rocket to reach orbit)"
+
+
+
+
+      ]
   },
   {
       "name": "Mark Zuckerberg",
